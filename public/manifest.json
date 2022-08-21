@@ -1,6 +1,6 @@
 {
-    "name": "AprendendoPWA",
-    "short_name": "AprendPWA",
+    "name": "MeuPrimeiroPWA",
+    "short_name": "FirstPWA",
     "description": "WEB APP para aprender PWA (Disciplina PAMII).",
     "display": "fullscreen",
     "start_url":"index.html",    
