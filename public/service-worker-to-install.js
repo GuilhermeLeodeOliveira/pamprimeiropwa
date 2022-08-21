@@ -1,7 +1,3 @@
-self.addEventListener('install', function(event) {
-    alert("install event detected");
-});
-
 self.addEventListener('install', event => {
     console.log('sw ./ => installing...');
 
